@@ -6,7 +6,7 @@ theme='Orchis-Dark'
 
 [org.mate.interface]
 gtk-theme='Orchis-Dark'
-icon-theme='Papirus-Dark'
+icon-theme='Citrus-red-dark'
 #icon-theme='Numix-Circle'
 
 
