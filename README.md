@@ -8,7 +8,7 @@
 | `+` |
 | [debian-iso-builder-import-pacstall-mate-attach-themes](https://github.com/samwhelp/debian-iso-builder-import-pacstall-mate-attach-themes) |
 | `=` |
-| [debian-iso-builder-include-pacstall-mate-theme-vimix](https://github.com/samwhelp/debian-iso-builder-include-pacstall-mate-theme-vimix) |
+| [debian-iso-builder-include-pacstall-mate-attach-themes](https://github.com/samwhelp/debian-iso-builder-include-pacstall-mate-attach-themes) |
 
 
 
